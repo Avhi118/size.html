@@ -1,2 +1,12 @@
-# size.html
-HTML and CSS example that demonstrates how to style a responsive heading using an external stylesheet.  👉 Do you want me to also draft a simple R
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sample</title>
+    <link rel="stylesheet" href="size.css"> 
+</head>
+<body>
+    <h1> Responsive Heading</h1>
+</body>
+</html>
